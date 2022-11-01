@@ -1,2 +1,5 @@
 # Snake Analytics - MAT5900
-Villanova Mathematics Capstone focusing on winning algorithms for the game snake. Includes reprogramming structure for Snake along with associated python scripts for analysis. Select [FinalPaper.pdf](https://github.com/kharmer9/Snake_Analytics-MAT5900/blob/main/FinalPaper.pdf) to view report, [SnakeProgram2.py](https://github.com/kharmer9/Snake_Analytics-MAT5900/blob/main/SnakeProgram2.py) to view primary code, and [SnakeSimulation3.py](https://github.com/kharmer9/Snake_Analytics-MAT5900/blob/main/SnakeSimulation3.py) to view main simulation.
+Villanova Mathematics Capstone focusing on winning algorithms for the game snake. Includes reprogramming structure for Snake along with associated python scripts for analysis. When viewing project, take a look at the following profiles:
+- [FinalPaper.pdf](https://github.com/kharmer9/Snake_Analytics-MAT5900/blob/main/FinalPaper.pdf) to view report
+- [SnakeProgram2.py](https://github.com/kharmer9/Snake_Analytics-MAT5900/blob/main/SnakeProgram2.py) to view primary code
+- [SnakeSimulation3.py](https://github.com/kharmer9/Snake_Analytics-MAT5900/blob/main/SnakeSimulation3.py) to view main simulation

@@ -1,6 +1,6 @@
 <h1> Snake Analytics - MAT5900 </h1>
 
-<h3> Decription </h3>
+<h3> Description </h3>
 
 Villanova Mathematics Capstone focusing on winning algorithms for the game snake. This project is broken up into several different components. First, the Snake program, with is included in SnakeProgram2.py, shows the construction of the game environement and the corresponding functions necessary for it to run. Then, it shows the simulation methods, which are found in each of the other .py files. The other files, FinalReport.pdf and the Powerpoint Presentation, are the project deliverables to get an indication of written communication and presentation strength. Technical Explanation is located in the codes and output implementation can be found in the presentation and final code. When viewing project, take a look at the following profiles:
 
